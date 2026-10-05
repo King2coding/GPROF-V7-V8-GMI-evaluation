@@ -30,3 +30,5 @@ logs/
 *.jpg
 *.jpeg
 [Cc]odex_prompt*.txt
+*.bak_*
+*.before_*
