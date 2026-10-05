@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and retain its current internal-review status."
+title: "GPROF V7–V8 GMI precipitation evaluation"
+type: software
+authors:
+  - family-names: "Kumah"
+    given-names: "Kwabena Kingsley"
+    orcid: "https://orcid.org/0000-0001-6865-0665"
+repository-code: "https://github.com/King2coding/GPROF-V7-V8-GMI-evaluation"
+preferred-citation:
+  type: article
+  title: "Evaluating Changes from GPROF Version 7 to Version 8 GMI Precipitation Retrievals over the Contiguous United States"
+  authors:
+    - family-names: "Kumah"
+      given-names: "Kwabena Kingsley"
+    - family-names: "Zandi"
+      given-names: "O."
+    - family-names: "Behrangi"
+      given-names: "A."
+  year: 2026

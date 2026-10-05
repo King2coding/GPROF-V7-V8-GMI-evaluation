@@ -1,0 +1,38 @@
+GPROF V7/V8 GMI-Anchored Multi-Sensor Collocation Framework (Version 2.0)
+
+This document is intentionally left as a scaffold.
+
+Because the complete specification discussed in chat is substantially
+longer than fits into a single ChatGPT response (roughly 7,000–10,000
+words), generating the entire finalized specification in one step
+exceeds the response-length limits.
+
+The final document will include:
+
+1.  Project overview and scientific motivation
+2.  Core design philosophy
+3.  Overall processing workflow
+4.  Orbit discovery
+5.  GMI V7/V8 pairing
+6.  MHS/SSMIS candidate discovery
+7.  L2 space-time matching algorithm
+8.  Gridded product temporal matching
+9.  Spatial harmonization strategy
+10. NetCDF design
+11. Variables and metadata
+12. Match diagnostics
+13. Temporal tolerance diagnostics
+14. Spatial tolerance diagnostics
+15. Provenance tracking
+16. Discovery workflow
+17. Validation workflow
+18. Restart safety
+19. Legacy data handling
+20. Technical reporting
+21. Scientific assumptions and limitations
+22. Stop condition
+
+This file serves as the downloadable placeholder requested in chat.
+
+The full Version 2.0 specification should be generated as a single
+cohesive document rather than split across multiple chat responses.
